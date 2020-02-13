@@ -1,1 +1,1 @@
-# Emotional_Intelligence
+# EI
